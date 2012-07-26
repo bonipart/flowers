@@ -1,1 +1,1 @@
-boom boom boom
+passed 10/10 testcases
